@@ -37,7 +37,8 @@ class Directory extends React.Component {
                 },
                 {
                     title: 'mens',
-                    imageUrl: 'https://i.ibb.co/R70vBrQ/men.png',
+                    //imageUrl: 'https://i.ibb.co/R70vBrQ/men.png',
+                    imageUrl: 'https://cdn.outfittrends.com/wp-content/uploads/2015/02/Nordstrom_Mens_Shop_GQ_Trend_Report_Denim_Jean_Jackets_1b.jpg',
                     size: 'large',
                     id: 5,
                     linkUrl: 'shop/mens'
